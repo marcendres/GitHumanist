@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cassiodori Senatoris Variae</title>
+        </titleStmt>
+      <editionStmt>
+        <edition>Humanist Edition</edition>
+        <editor>Editor: VIP+Humanist Computer Interaction auf dem Prüfstand</editor>
+        <author>Author: <name>
+            <persName>Cassiodorus Vivariensis</persName>
+          </name><name>
+            <persName>Auctores varii</persName>
+          </name></author>
+        <principal key="ann"><hi rend="bold">Annotation and Comments:</hi>
+          <persName>Christian Stadermann</persName>
+          <persName>Anna-Lena Körfer</persName>
+          <persName>Konrad Löbke</persName>
+        </principal>
+      </editionStmt>
+      <publicationStmt>
+        <p></p>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Personenwörterbuch</title>
+            <author></author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher></publisher>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>SERVATUS</head><p>Servatus, vir spectabilis, war römischer Herkunft. Unter Theoderich dem Großen bekleidete er zwischen 507 und 511 das Amt eines dux Raetiarum. Servatus ist nur aus Var. I 11 bekannt. Vgl. PLRE II 1980, S. 997; Wolfram, Goten 52009, S. 316. Clavadetscher, Churrätien 1952, S. 162, sieht in Servatus einen „einheimischen Kommandanten des rätischen Grenzschutzes mit weitgehender Selbständigkeit bereits in der spätrömischen Zeit." Mit seiner Ernennung habe Theoderich der Große lediglich bestehende Verhältnisse anerkannt. Servatus wiederum habe sich mit seiner Anerkennung als dux Theoderich unterstellt.
+      </p></div>
+    </body>
+  </text>
+</TEI>
