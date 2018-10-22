@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><anchor xml:id="a1_start"></anchor>EURIC<anchor xml:id="a1_end"></anchor></title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cassiodori Senatoris Variae, Humanist Edition</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p><title>Personendatenblatt</title></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <table rows="18" cols="2">
+          <row role="label">
+            <cell>Name</cell>
+            <cell>Euric</cell>
+          </row>
+          <row>
+            <cell>Born</cell>
+            <cell>unknown</cell>
+          </row>
+          <row>
+            <cell>Died</cell>
+            <cell>484</cell>
+          </row>
+          <row>
+            <cell>Title</cell>
+            <cell></cell>
+            <cell></cell>
+          </row>
+
+          <row>
+            <cell>Office/ Function</cell>
+            <cell>rex Gothorum</cell>
+            <cell>rex Wisigothorum</cell>
+          </row>
+          <row>
+            <cell>Profession</cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell>Reign/ Term of Office</cell>
+            <cell>466</cell>
+            <cell>484</cell>
+          </row>
+          <row>
+            <cell>Ethnicity</cell>
+            <cell>Visigoth</cell>
+          </row>
+          <row>
+            <cell>Religious Affiliation</cell>
+            <cell>Arian</cell>
+          </row>
+          <row>
+            <cell>Father</cell>
+            <cell>Theoderic I</cell>
+          </row>
+          <row>
+            <cell>Mother</cell>
+            <cell>unknown</cell>
+          </row>
+          <row>
+            <cell>Siblings</cell>
+            <cell>Theoderic II</cell>
+            <cell>Thorismud</cell>
+            <cell>Friederic</cell>
+            <cell>Retemer</cell>
+            <cell>Mimnerith</cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell>Spouse</cell>
+            <cell>Ragnahild</cell>
+          </row>
+          <row>
+            <cell>Children</cell>
+            <cell>Alaric II</cell>
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell>Places</cell>
+            <cell>Toulouse</cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell>Regions</cell>
+            <cell>Gaul</cell>
+          </row>
+          <row>
+            <cell>Links</cell>
+            <cell><ref target="http://d-nb.info/gnd/102387419">http://d-nb.info/gnd/102387419</ref></cell>
+          </row>
+          <row>
+            <cell>Sources</cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell>Literature</cell>
+            <cell></cell>
+          </row>
+        </table>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <hi rend="bold">Eurich, </hi>König der Westgoten 466-484, Sohn Theoderichs I., erlangte
+        durch Ermordung seines älteren Bruders Theoderich II. den Thron. Er brach das Bündnis der
+        Westgoten mit dem römischen Reich und leitete Offensiven ein, um den ganzen Raum
+        südwestlichen der Loire- und Rhône sowie möglichst weite Teile der Iberischen Halbinsel
+        unter seine Herrschaft zu bringen. Der gotischen Expansion in Gallien, die 469 begann,
+        stellten sich im Berry die Bretonen, in der Gegend von Orléans fränkischen Föderaten unter
+        Childerich I. und römischen Truppen des Paulus, im Rhônetal erst ein kaiserliches Heer aus
+        Italien, dann die Burgunder Chilperichs I. entgegen; in Spanien setzten sich die Sueven zur
+        Wehr. Zudem leiste­ten in der Tarraconensis und in der Auvergne vornehme Provinzialen
+        energischen Widerstand. Als Arianer mussten die Goten überdies stets mit der Feindschaft des
+        katholischen Klerus rechnen. - Erst wurden die Bretonen entscheidend geschlagen, dann (471)
+        die kaiserliche Armee; in Spanien mussten die Sueven in den Nordwesten zurückweichen, die
+        Unterwerfung der Hispanoromanen gelang 472-473. In der Auvergne, wo der fähige Arverner
+        Ecdicius und Bischof Sidonius Apollinaris Clermont verteidig­ten, endete der Krieg erst, als
+        Kaiser Nepos 475 Eurichs Herrschaft über die von den Westgoten bean­spruchten Gebiete
+        westlich der Rhône und der Loire akzeptierte. 476 besetzten die Westgoten auch die süd­liche
+        Provence. Im fränkischen Ausdehnungsdrang am Niederrhein sah Eurich eine Gefahr; er
+        rea­gierte mit einem erfolgreichen Einsatz seiner Atlantikflotte. Als er 484 starb, war er
+        der mächtigste Kö­nig auf ehemaligen Reichsboden. In die Regierungszeit Eurichs, dessen
+        legislatives Wirken Sidonius Apollinaris bezeugt, setzt Isidor von Sevilla den Anfang der
+        westgotischen Rechtskodifikation.<note>Prelog, J. (1999), Eurich. In: Lexikon des
+          Mittelalters (Vol. 4, col. 104-105), München und Zürich.</note></p>
+      <p><hi rend="bold">Eurich</hi> (auch Euricus, Euarix), König der Westgoten 466-484 n. Chr.,
+        Sohn Theoderichs I., gelangte nach der Ermordung seines Bruders Theoderich II. zur
+        Herrschaft. Eurichs Regierung war geprägt vom Bestreben, sein Reichsgebiet auszudehnen und
+        die Abhängigkeit von Rom zu lockern, was in der Kündi¬gung des Bündnisses mit den Römern
+        deutlich wird. Seit 468 ging er gegen die Sueben vor und eroberte in den folgenden Jahren
+        fast die gesamte iberische Halbinsel. Sein Versuch, die Loire zu überschreiten, wurde trotz
+        eines Sieges über die Bretonen von Römern und Franken vereitelt. Dagegen führten seine
+        Vorstöße in den südgallischen Raum östlich der Rhône zur Vernichtung eines römischen Heeres
+        (471). Zunächst wurde Eurich noch von den Burgundern an weiteren Eroberungen in der Provence
+        gehindert und stieß auch in der Auvergne auf den Widerstand des ansässigen Adels, doch
+        musste Kaiser Julius Nepos 475 endgültig seine Eroberungen anerkennen. Mit der Inbesitznahme
+        der südlichen Provence 476/7 erreichte das Westgotenreich seine größte Ausdehnung, Eurich
+        war auch als Gesetzgeber aktiv. Der strenge Arianer Eurich pflegte zwar Kontakte zu
+        Würdenträgern der katholischen Kirche, versuchte aber deren Organisation u.a. durch das
+        Verbot der Besetzung vakanter Bistümer zu unterwandern.<note>Meier, M./Strothmann, M.
+          (1998), Euricus. In: Der Neue Pauly (Vol. 4, p. 279), Weimar.</note></p>
+      <p><hi rend="bold">Eurich</hi>, Westgotenkönig (466-485), Sohn Theoderichs I., der 451 in der
+        Hunnenschlacht bei Châlon gefallen war, Bruder Thorismunds, der dem Vater gefolgt war, aber
+        453 von dem dritten Bruder Theode¬rich II. ermordet ward, der dann 466 ebenfalls von einem
+        Bruder, eben Eurich, ermordet ward. Dieser gewaltige Herrscher sollte das Reich der
+        Westgoten zu der Gipfelhöhe der Macht erheben, so dass es, weit über den (noch unter viele
+        Kleinkönige zerteilten) Franken und den (noch nicht nach Italien eingewanderten) Ostgoten
+        emporragend, der ohne Zweifel stärkste Germanenstaat der Zeit war und zur Hegemonie über
+        alle anderen Germanenreiche des Festlands (abgesehen von Skandinavien) berufen schien: denn
+        Eurich gelang es nicht nur, Gallien bis an die Loire im Osten und die beiden Meere im Norden
+        und Süden zu gewinnen, auch die ganze pyrenäische Halbinsel (ausgenommen den schmalen von
+        den Sueben im äußersten Nordosten behaupteten Streifen). Diese Erfolge verdankte er seiner
+        Kriegsheldenschaft, aber nicht minder wahrlich seiner hohen Staatskunst; er war sehr zäh,
+        sehr kühn, sehr schlau und verstand es meisterhaft, die Wirren in dem rasch sinkenden
+        römischen Westreich und die Uneinigkeit seiner germanischen Nachbarn auszunutzen, um sein
+        Volk aus einer viel bedrohten Lage in herrschende Stellung zu erheben. Die argen Zustände im
+        Reich führten gar manche Provinzialrömer dazu, sich Eurich anzuschließen, um Ordnung und
+        Ruhe zu gewinnen. Im Bunde mit dem Vandalen¬könig Geiserich gegen den oströmischen Kaiser
+        Leo und den weströmischen Anthemius und dessen rasch wechselnde Nachfolger machte er in
+        Gallien immer wach¬sende Fortschritte. Nur eine höchst wichtige Landschaft, das waldige
+        Hochland der Auvergne, mit ihrer tapferen Bergbevölkerung und ihrer festen Hauptstadt
+        Clermont-Ferrand trennte wie ein Keil das südliche von dem nördlichen Gotengebiet in
+        Gallien; der Provinzialadel unter Ecdicius, dem Sohne des ehemaligen Kaisers Avitus und
+        Schwager des Bischofs der Stadt, Apollinaris Sidonius, verteidigten ihre Freiheit mit Mut
+        und Erfolg: der Bischof schildert diese Kämpfe des Schwertes und der Staatskunst gar
+        anschaulich in seinen Briefen: seine Briefe geben mit Übertreibung, aber auch mit der
+        Wahrheit der Leidenschaft ein lehrreiches Bild der Parteiungen, der Zustände in dem Gallien
+        des sinkenden 5. Jahrhunderts. Mit heißem Eifer und mit kühler Hartnäckigkeit zugleich
+        verfolgte Eurich seine Pläne auf Erwerbung der Landschaft. Auch an die förmliche Abtretung
+        durch den schwachen Kaiser Glycerius kehrten sich Ecdicius und der Adel der Auvergne nicht;
+        mutig setzten sie fast nur mit eigenen Mitteln den Widerstand fort, bis auch der neue Kaiser
+        Julius Nepos die noch nicht eroberten Theile der Auvergne feierlich abtrat in der eitlen
+        Hoffnung dadurch dauernde Herstellung des Bündnisses mit Eurich und Ruhe in Gallien zu
+        erkaufen: nun floh Ecdicius zu den Burgunden, Apollinaris ward verbannt, aber bald
+        begnadigt. So war nun Eurichs Gebiet in Gallien zwischen den beiden Meeren, Loire und Rhone
+        trefflich abgerundet; als aber bei dem Sturz des weströmischen Reiches durch Odoaker 476
+        alle Germanenvölker in Gallien und Spanien in Bewe¬gung gerieten und Stücke des verwaisten
+        Erbes an sich rissen, bemächtigte sich Eurich in raschem Über¬fall der ganzen iberischen
+        Halbinsel (abgesehen von dem Gebiet der Sueben, s. oben). Dadurch war den Goten jenseits der
+        Pyrenäen eine sichere Zufluchtsstätte gewonnen, als sie schon unter Eurichs Sohn und
+        Nachfolger Alarich II. den größten Teil ihrer Besitzungen in Gallien an die gefährlich um
+        sich greifende Macht der Franken verloren, die Eurich noch ebenso erfolgreich abgewehrt
+        hatte, wie säch-sische Seeräuber. Dieser glänzenden Stellung entspricht das Gedränge der
+        Gesandten fremder Völker in dem Palast zu Toulouse, das Apollinaris schildert: nicht nur
+        Römer, Franken und Sachsen, auch Bur¬gunden, Heruler, sogar Perser, die Hilfsgelder gegen
+        Ostrom zahlten, waren hier vertreten und Theode¬rich der Große rühmt bald darauf, wie oft
+        und wie erfolgreich Eurich die Könige der Thüringer, Warner, Heruler vor den Angriffen der
+        Nachbarn - offenbar der Franken - geschützt habe; seine Gemahlin Ragnachild war eine
+        Königstochter unbekannten Stammes. Dem äußern Glanz des Reiches entsprach so ziemlich die
+        innere Blüte: unter Eurich zuerst ward westgotisches Recht aufgezeichnet; die Romanen als
+        solche wurden so wenig unterdrückt, dass vornehme Römer wie Leo und Victorius die
+        wichtigsten Staatsämter bekleideten. Der oft harte, aber in den Schilderungen der Priester
+        stark übertriebene Druck auf die katholische Kirche war eine Folge ihrer ganzen höchst
+        feindlichen Haltung gegen den Ketzerstaat der Arianer: ihr Verrat trug ganz wesentlich bei
+        zu den Erfolgen Chlodwigs gegenüber Alarich II. und dem Verlust des größten Teils des
+        gotischen Galliens an die eifrig katholischen Franken.<note>Dahn, F. (1904), Eurich. In:
+          Allgemeine Deutsche Biographie (Vol. 48, pp. 450-451), Berlin.</note></p>
+      <p><hi rend="bold">Eurich</hi>, König der Westgoten (466 - Dezember 484). Als vierter Sohn des
+        Westgotenkönigs Theoderich I. gelangte Eurich nach dem gewaltsamen Tod seiner älteren Brüder
+        Thorismund und Theoderich II., dessen Ermordung auf Betreiben Eurichs erfolgte, zur
+        Herrschaft. Neben dem älteren Bruder Friderich, der mehrfach als Feldherr erscheint, erwähnt
+        Jordanes zwei jüngere Brüder, Retemer und Himnerith. Die Namen von zwei oder drei Schwestern
+        sind nicht überliefert; eine von ihnen war vorübergehend mit dem Vandalenkönig Hunerich
+        verheiratet, eine andere ehelichte 449 Suebenkönig Rechiar. Eurich wurde etwa 440 – 450
+        geboren; er heiratete Ragnahild, die Tochter eines unbekannten Königs. Der Ehe entsprang
+        Alarich II. Die Politik Eurichs ist während des 1. Jahrzehnts seiner Regierung von dem
+        Be¬streben nach Lockerung des Abhängigkeitsverhältnisses vom Kaiser und nach Ausdehnung
+        seines Herr¬schaftsgebietes gekennzeichnet, das ursprünglich die Provinzen Aquitania
+        Secunda, Novempopulana sowie Teile der Narbonensis Prima umfasste. Nach Ennodius verhandelte
+        Bischof Epifanus von Pavia als kaiserlicher gesandter 475 über eine Anerkennung Eurichs; das
+        alte Föderatenverhältnis hatte Eurich bald nach seinem Regierungsantritt gebrochen. Wenn
+        Eurich mit Epifanus unter Einschaltung eines Dolmetschers unterhandelte und trotz vermutlich
+        sehr guter Lateinkenntnisse auf dem Gebrauch des Gotischen bestand, so ist dies als Zeichen
+        seines Selbstbewusstseins zu werten. Zunächst beendete 468 Eurich durch einen Feldzug gegen
+        die spanischen Sweben Ausdehnungsbestrebungen ihres Königs Remismund. Teile der iberischen
+        Halbinsel kamen in westgotischen Besitz, so Lusitanien, wo 483 ein westgotischer dux in
+        Mérida bezeugt ist. In Fortsetzung dieser Politik drangen 472 zwei westgotische Heere in
+        Spanien ein und eroberten das Gebiet um Zaragoza sowie die Küstengebiete der Tarraconensis,
+        die bis 476 unterworfen wurde. Als schwieriger erwies sich der Versuch, das Reich in
+        nördlicher Rich¬tung zu erweitern. Zwar besiegte Eurich 469 in römischen Diensten stehende
+        Bretonen bei Déols an der Indre, doch wurde sein Versuch, die Loire zu überschreiten, von
+        den Römern mit fränkischer Un-terstützung vereitelt. Hingegen gelang es Eurich, seine
+        Herrschaft nach Osten auszudehnen. Eurich konnte sich auf Sympathisanten in der römischen
+        Administration stützen. Nach Erreichung der Rhône schlug Eurich 471 ein kaiserliches Heer
+        bei Arles, doch hinderten ihn die Burgunden an der Eroberung der Provence. Nur die Auvergne
+        leistete unter der Leitung des Bischofs von Clermont Sidonius Apol¬linaris und des
+        Heermeisters Ecdicius mit burgundischer Unterstützung bis 475 Widerstand, als Kaiser Julius
+        Nepos dieses Gebiet und die übrigen von Eurich eroberten Regionen abtrat. Schließlich gelang
+        es Eurich nach der Absetzung des Kaisers Romulus Augustulus 476/77 die Inbesitznahme der
+        Provence, doch erlitt gegen Odoaker entsandtes westgotisches Heer in Italien eine
+        Niederlage. Damit hatte das westgotische Reich seine größte Ausdehnung erreicht, wenn auch
+        weite Teile der iberischen Halbinsel, namentlich im Süden, schwerlich der direkten
+        Herrschaft Eurichs unterstanden. Sein Reich war nächst Ostrom die größte Macht Europas.
+        Sidonius Apollinaris berichtet, dass Abgesandte der Heruler, Sach¬sen, Burgunder, Sugambrer,
+        Ostgoten, Perser und der römischen Bevölkerung Italiens am Hof von Toulouse weilten.
+        Einzelheiten dieser diplomatischen Aktivität sind unbekannt, doch gewährte Eurich den
+        Warnen, Thüringern und Herulern Schutz. Eurich trat auch als Gesetzgeber hervor; ob er
+        jedoch die Kodifikation des westgotischen Rechtes im Codex Euricianus veranlasst hat, ist
+        zweifelhaft. In der Kirchenpolitik versuchte der Arianer Eurich, die Organisation der
+        katholischen Kirche dadurch zu zerstören, dass er die Besetzung vakanter Bistümer unterband.
+        Vermutlich sah er in den Bischöfen, die meist der gallorömischen Aristokratie angehörten,
+        Gegner seiner Expansionspolitik. Für diese Annahme spricht, dass Eurich nach dem Ende des
+        Kaisertums im Westen die katholikenfeindlichen Maßnahmen einstellte. <note>Claude, D.
+          (1994), Eurich. In: Reallexikon der Germanischen Altertumskunde (Vol. 8, pp. 17-19),
+          Berlin.</note></p>
+      <p><figure>
+          <graphic url="efs://TGPR-56d054e6-71c7-bca0-55c8-5a685b9c4ddf$Eurico,%20Rey%20de%20los%20Visigodos,%20Manuel%20Rodr%C3%ADguez%20de%20Guzm%C3%A1n,%20ca.%201855%20(Museo%20del%20Prado,%20Madrid).jpg"></graphic>
+        </figure>Abbildung: Eurico, Rey de los Visigodos, Manuel Rodríguez de Guzmán, ca. 1855
+        (Museo del Prado, Madrid)</p>
+    </body>
+  </text>
+</TEI>
